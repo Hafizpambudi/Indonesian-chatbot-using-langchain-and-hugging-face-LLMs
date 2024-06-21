@@ -1,6 +1,9 @@
 # Indonesian-chatbot-using-langchain-and-hugging-face-LLMs
 
 # Chatbot Fresh Water Fish Knowledge 
+![langchain](https://github.com/Hafizpambudi/Indonesian-chatbot-using-langchain-and-hugging-face-LLMs/assets/154437965/487e78a3-393f-4ff1-a9be-92d656b9a576)
+![hugging](https://github.com/Hafizpambudi/Indonesian-chatbot-using-langchain-and-hugging-face-LLMs/assets/154437965/ab169d58-4321-4264-9d33-d6008b9a5a75)
+
 
 ## Teams 
 - Hafiz Pambudi - ML engineer 
@@ -28,7 +31,7 @@ chatbot ini akan membantu user dalam mendapatkan informasi yang cepat dan akurat
 
 ## Dataset 
 Chatbot akan menggunakan 5 document sebagai knowledge base. Dataset didapatkan dari pengumpulan dari berbagai situs terkait dengan budidaya ikan ikan berikut :  ikan lele, ikan bawal, ikan gurame, ikan nila dan ikan mujair. 
-detail dataset : 
+detail dataset : https://github.com/Hafizpambudi/dataset-aquachat-chatbot
 
 ## Algorithm
 Chatbot ini menggunakan algoritma RAG (Retrieval-Augmented Generation)  yang dipadukan dengan LLM dari hugging face. LLM yang digunakan merupakan llm yang khusus unutk melakukan percakapan bahasa indoensia. Algoritma ini dipilih dengan tujuan untuk mendapatkan percakapan dalam chatbot yang natural.  
