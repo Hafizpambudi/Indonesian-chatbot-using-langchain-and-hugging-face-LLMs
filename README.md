@@ -1,5 +1,3 @@
-# Indonesian-chatbot-using-langchain-and-hugging-face-LLMs
-
 # Chatbot Fresh Water Fish Knowledge 
 ![langchain](https://github.com/Hafizpambudi/Indonesian-chatbot-using-langchain-and-hugging-face-LLMs/assets/154437965/487e78a3-393f-4ff1-a9be-92d656b9a576)
 ![hugging](https://github.com/Hafizpambudi/Indonesian-chatbot-using-langchain-and-hugging-face-LLMs/assets/154437965/ab169d58-4321-4264-9d33-d6008b9a5a75)
